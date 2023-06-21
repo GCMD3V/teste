@@ -1,0 +1,36 @@
+//segunda aula
+
+//Case > Java
+
+PascalCase = PrimeiraLetraMaiúscula => Nome de Classes / Arquivos
+ 
+camelCase = primeiraLetraMinúsculaERestoMaiúscula => nomes de variáveis/ funções / métodos
+
+sanke_case = escrita_minúscuka_underline => nome de arquivos/ variáveis 
+
+//Variáveis
+strings
+int
+floot
+double (maior precisão)
+bool true/false e 0 e 1
+
+//Declaração
+String nome
+
+//Atribuição
+nome = "Gabriel"
+
+//Declaração e Atribuição
+String nome = "Gabriel"
+
+//Operadores Aritméticos
++ adição ou concatenação
+- subtração
+/ divisão
+* multiplicação
+
+//Tipos de Algorítmos
+*Sequencial => execução
+*Condcional => multiplas saídas
+*Algorítmo de repetição
